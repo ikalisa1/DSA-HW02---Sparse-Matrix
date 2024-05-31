@@ -1,4 +1,4 @@
-class SparseMatrix:
+lass SparseMatrix:
     def _init_(self, rows, cols):
         self.rows = rows
         self.cols = cols
